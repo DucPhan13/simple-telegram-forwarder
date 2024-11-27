@@ -1,0 +1,9 @@
+PyYAML
+requests==2.26.0
+Telethon==1.37.0
+# websocket-client
+websockets
+pycryptodome
+flask
+flask[async]
+flask-cors
